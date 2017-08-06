@@ -7,3 +7,5 @@ server updated
 client update
 
 server update 222222
+
+然后我的客户端在更新
